@@ -1,0 +1,31 @@
+.agenda{
+  background-color: #8bb5da;
+  width: 100%;
+  height: 300px;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.tabla-agenda{
+  margin: auto;
+  border-collapse: collapse;
+  width: 70%;
+}
+
+.tabla-agenda thead{
+  background-color: #19354d;
+  color: white;
+}
+
+.tabla-agenda th,
+.tabla-agenda td{
+  padding: 10px;
+}
+
+.fila1{
+  background-color: #e6eef6;
+}
+
+.fila2{
+  background-color: #cfdfee;
+}

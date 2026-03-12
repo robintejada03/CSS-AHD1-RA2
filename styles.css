@@ -1,0 +1,9 @@
+/* FICHERO DE ESTILOS GENERALES */
+
+@import url('https://fonts.googleapis.com/css2?family=Pirata+One&display=swap');
+
+body{
+    margin: 0;
+    font-family: Pirata One;
+    font-size: 19px;
+}
